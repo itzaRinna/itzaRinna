@@ -18,6 +18,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![VS](https://img.shields.io/badge/Visual%20Studio-743db4?style=for-the-badge&logo=visualstudio&logoColor=white)]()
 </details>
 
 [website]: https://CURRENTLYBLANK.com
