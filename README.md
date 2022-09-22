@@ -18,8 +18,6 @@
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![VS](https://img.shields.io/badge/Visual%20Studio-743db4?style=for-the-badge&logo=visualstudio&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,7 +32,7 @@
 
 WEBSITE* [https://tomkcaston.netlify.app/]
 
-<div align="center">
+<div>
 <a href="https://github.com/rishavanand" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
 </a>
