@@ -33,22 +33,13 @@
 WEBSITE* [https://tomkcaston.netlify.app/]
 
 <div>
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&amp;style=for-the-badge&amp;logo=dev.to&amp;logoColor=white" alt="devto" style="margin-bottom: 5px;">
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="facebook" style="margin-bottom: 5px;">
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="instagram" style="margin-bottom: 5px;">
-</a>  
 </div>
