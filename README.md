@@ -45,5 +45,5 @@ WEBSITE* [https://tomkcaston.netlify.app/]
 </div>
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" align="middle">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 50%" align="middle">
 </div>
