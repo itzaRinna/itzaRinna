@@ -43,3 +43,7 @@ WEBSITE* [https://tomkcaston.netlify.app/]
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="facebook" style="margin-bottom: 5px;">
 </a>
 </div>
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" align="middle">
+</div>
