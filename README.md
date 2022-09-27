@@ -3,7 +3,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elloworldtom)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzaRinna&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itzaRinnam&theme=radical&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itzaRinna$theme=radical&show_icons=true)  
 </br>
 ## 💻 Tool
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
