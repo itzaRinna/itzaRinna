@@ -2,7 +2,7 @@
 <h1 align="center">A passionate 16 years old programmer</h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elloworldtom)  
-![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=itzaRinna" height="200" alt="languages graph")
+[<img src='https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=itzaRinna" height="200" alt="languages graph">]
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzaRinna&theme=radical&show_icons=true)  
 </br>
 ## 💻 Tool
@@ -41,4 +41,3 @@
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="facebook" style="margin-bottom: 5px;">
 </a>
 </div>
-
