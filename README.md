@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rin</h1><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' />
+<h1 align="left">Hi 👋, I'm Rin</h1><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' />
 <h1 align="center">A front end dev</h1>
  
  
