@@ -18,15 +18,4 @@
 ## 💻 Programming Languages
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
-## 🌐 Socials
-<div>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="facebook" style="margin-bottom: 5px;">
-</a>
-</div>
+##
