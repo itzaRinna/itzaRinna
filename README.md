@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Rin</h1>
+<h1 align="left">Hi 👋, I'm Rinna</h1>
 <h1 align="left">An aspiring front end dev</h1>
 
 ## 💻 Tools
