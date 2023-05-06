@@ -15,5 +15,5 @@
 
 
 ## 💻 Social media
-<img align="right" alt="Facebook" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-<img align="right" alt="Github" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="right" alt="Facebook" width="60px" style="padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+<img align="right" alt="Github" width="60px" style="padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
