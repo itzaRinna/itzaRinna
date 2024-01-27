@@ -22,5 +22,5 @@
 <br>
 
 ## 💻 Social media
-<img align="right" alt="Facebook" width="60px" style="padding-left:120px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-<img align="right" alt="Github" width="60px" style="padding-left:120px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<a href="https://www.facebook.com/profile.php?id=100027972971940"><img align="right" alt="Facebook" width="60px" style="padding-left:120px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
+<a href="https://discordapp.com/users/998457903692382248"><img align="right" alt="Github" width="60px" style="padding-left:120px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
