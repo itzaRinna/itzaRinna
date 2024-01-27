@@ -27,4 +27,4 @@
 
 
 <br>
-[![Rinna's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/itzaRinna)
+[![itzaRinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzaRinna)](https://github.com/itzaRinna/github-readme-stats)
