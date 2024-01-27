@@ -23,4 +23,4 @@
 
 ## 💻 Social media
 <a href="https://www.facebook.com/profile.php?id=100027972971940"><img align="right" alt="Facebook" width="60px" style="padding-left:120px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
-<a href="https://discordapp.com/users/998457903692382248"><img align="right" alt="Discord" width="60px" style="padding-left:120px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" /></a>
+<a href="https://discordapp.com/users/998457903692382248"><img align="right" alt="Discord" width="60px" style="padding-left:120px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg(https://www.flaticon.com/search?word=discord)https://www.flaticon.com/search?word=discord" /></a>
