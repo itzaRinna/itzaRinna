@@ -27,4 +27,4 @@
 
 
 <br>
-[![itzaRinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzaRinna)](https://github.com/itzaRinna/github-readme-stats)
+[![itzaRinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzaRinna)](https://github.com/anuraghazra/github-readme-stats)
