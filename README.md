@@ -24,6 +24,7 @@
 ## 💻 Social media
 <a href="https://www.facebook.com/profile.php?id=100027972971940"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
 <a href="https://discordapp.com/users/998457903692382248"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" /></a>
+<a href="https://www.linkedin.com/in/dutch-lenalu-197922253/"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
 
 
 <br>
