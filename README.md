@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rinna</h1>
-<h1 align="left">An aspiring front end dev</h1>
+<h1 align="left">An aspiring fullstack developer</h1>
 
 ## 💻 Tools
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
