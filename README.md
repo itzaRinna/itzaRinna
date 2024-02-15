@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Rinna Ateros/h1>
+<h1 align="left">Hi 👋, I'm Rinna Ateros </h1>
 <h1 align="left">An aspiring fullstack developer</h1>
 
 ## 💻 Tools
