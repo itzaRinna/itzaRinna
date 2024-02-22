@@ -30,4 +30,4 @@
 
 
 <br>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=dracula&hide_border=false&username=itzaRinna" height="200" alt="languages graph"  /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=350&langs_count=8&theme=dracula&hide_border=false&username=itzaRinna" height="200" alt="languages graph"  /></div>
