@@ -33,7 +33,8 @@
 
 
 <br>
-##   
+## --------------------------------
+
 ## 💻 Check Out My Social Media
 <a href="https://www.facebook.com/profile.php?id=100027972971940"><img margin = auto width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
 <a href="https://discordapp.com/users/998457903692382248"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" /></a>
