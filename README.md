@@ -40,6 +40,8 @@
 <a href="https://discordapp.com/users/998457903692382248"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" /></a>
 <a href="https://www.linkedin.com/in/dutch-lenalu-197922253/"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
 
+https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+
 
 <br>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=dracula&hide_border=false&username=itzaRinna" height="250" alt="languages graph"  /></div>
