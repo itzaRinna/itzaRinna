@@ -20,7 +20,7 @@
 
 <br>
 
-## 💻 Programming Languages - Frameworks - Libraries I Use I
+## 💻 Programming Languages - Frameworks - Libraries I Use (I)
 
 <img align="left" alt="C++" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -38,7 +38,7 @@
 ##          
 ##          
 
-## 💻 Programming Languages - Frameworks - Libraries I Use II
+## 💻 Programming Languages - Frameworks - Libraries I Use (II)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
