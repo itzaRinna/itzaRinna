@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Rinna Ateros </h1>
-<h1 align="left">An aspiring fullstack - game developer</h1>
+
 
 ## 💻 What am i
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+<h1 align="left">An aspiring fullstack - game developer</h1>
 
 ## 💻 Tools
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
