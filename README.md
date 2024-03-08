@@ -1,7 +1,4 @@
 <h1 align="left">Hi 👋, I'm Rinna Ateros </h1>
-
-
-## 💻 What am i
 <h1 align="left">An aspiring fullstack - game developer</h1>
 
 ## 💻 Tools
