@@ -59,4 +59,4 @@
 
 
 <br>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=400&langs_count=12&theme=jolly&hide_border=false&username=itzaRinna" height="250" alt="languages graph"  /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=15&theme=jolly&hide_border=true&username=itzaRinna" height="250" alt="languages graph"  /></div>
