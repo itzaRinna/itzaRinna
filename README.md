@@ -2,7 +2,7 @@
 ## An aspiring fullstack - game developer
 ## CEO of Le Concevoir.Co
 
-![Le Concevoir.Co Logo](https://placehold.it/200x100)
+![Le Concevoir.Co Logo](https://github.com/itzaRinna/itzaRinna/blob/main/Lcc.jpg)
 
 ## 💻 Tools
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
