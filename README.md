@@ -36,8 +36,7 @@
 <img align="left" alt="Unity" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 
 ##                                 
-##                                 
-##                                 
+##                                                                 
                                 
 
 ## 💻 Programming Languages - Frameworks - Libraries I Use (II)
