@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Rinna Ateros </h1>
 <h1 align="left">An aspiring fullstack - game developer</h1>
 <h1 align="left">CEO of Le Concevoir.Co </h1>
-![pfp](https://github.com/itzaRinna/itzaRinna/assets/111746841/70226174-35a9-4311-95e3-613736086140)
 
 ## 💻 Tools
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
