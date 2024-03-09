@@ -1,7 +1,8 @@
-<h1 align="left">Hi 👋, I'm Rinna Ateros </h1>
-<h1 align="left">An aspiring fullstack - game developer</h1>
-<h1 align="left">CEO of Le Concevoir.Co </h1>
-![alt text](https://github.com/itzaRinna/itzaRinna/Lcc.jpg "Logo Title Text 1")
+# Hi 👋, I'm Rinna Ateros
+## An aspiring fullstack - game developer
+## CEO of Le Concevoir.Co
+
+![Le Concevoir.Co Logo](https://placehold.it/200x100)
 
 ## 💻 Tools
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -23,7 +24,6 @@
 <br>
 
 ## 💻 Programming Languages - Frameworks - Libraries I Use (I)
-
 <img align="left" alt="C++" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Go" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
@@ -35,11 +35,6 @@
 <img align="left" alt="React" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Unity" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 
-##          
-##          
-##          
-##          
-
 ## 💻 Programming Languages - Frameworks - Libraries I Use (II)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -49,16 +44,13 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-
 <br>
 
-
 ## 💻 Check Out My Social Media
-<a href="https://www.facebook.com/profile.php?id=100027972971940"><img margin = auto width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
+<a href="https://www.facebook.com/profile.php?id=100027972971940"><img margin="auto" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
 <a href="https://discordapp.com/users/998457903692382248"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" /></a>
 <a href="https://www.linkedin.com/in/dutch-lenalu-197922253/"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
 
-
-
 <br>
+
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=15&theme=jolly&hide_border=true&username=itzaRinna" height="250" alt="languages graph"  /></div>
