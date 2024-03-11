@@ -49,7 +49,7 @@
 
 ## 💻 Check Out My Social Media
 
-<a href="www.linkedin.com/in/rinna-ateros-197922253"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.linkedin.com/in/rinna-ateros-197922253"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 <br>
 
