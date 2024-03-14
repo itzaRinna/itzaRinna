@@ -4,6 +4,9 @@
 
 ![Le Concevoir.Co Logo](https://github.com/itzaRinna/itzaRinna/blob/main/Lcc.jpg)
 
+## About ME
+### I like using the C family, like C/C++ and C#
+
 ## 💻 Tools
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
