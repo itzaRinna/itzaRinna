@@ -2,14 +2,15 @@
 ## An aspiring fullstack - game developer
 ## CEO of Le Concevoir.Co
 
-![Le Concevoir.Co Logo](https://github.com/itzaRinna/itzaRinna/blob/main/Lcc.jpg)
+<img src="https://github.com/itzaRinna/itzaRinna/blob/main/Lcc.jpg" alt="Le Concevoir.Co Logo" width="100" height="100">
 
 ## Working at Lunetta Games
 
-![Lunetta Games Logo](https://github.com/itzaRinna/itzaRinna/blob/main/Lunetta.png)
+<img src="https://github.com/itzaRinna/itzaRinna/blob/main/Lunetta.png" alt="Lunetta Games Logo" width="100" height="100">
 
 ## About ME
 ### I like using the C family, like C/C++ and C#
+
 
 ## 💻 Tools
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
