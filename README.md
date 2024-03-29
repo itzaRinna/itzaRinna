@@ -4,6 +4,10 @@
 
 ![Le Concevoir.Co Logo](https://github.com/itzaRinna/itzaRinna/blob/main/Lcc.jpg)
 
+## Working at Lunetta Games
+
+![Lunetta Games Logo](https://github.com/itzaRinna/itzaRinna/blob/main/Lunetta.png)
+
 ## About ME
 ### I like using the C family, like C/C++ and C#
 
