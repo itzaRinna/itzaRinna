@@ -64,6 +64,6 @@
 <br>
 
 ## Most Used Programming Languages
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=18&theme=jolly&hide_border=true&username=itzaRinna&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile" height="275" alt="languages graph"  /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=18&theme=jolly&hide_border=true&username=itzaRinna&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile,gml" height="275" alt="languages graph"  /></div>
 
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzaRinna&theme=jolly&hide_border=true" alt="itzaRinna" /></div>
