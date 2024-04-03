@@ -31,21 +31,12 @@
 
 <br>
 
-## 💻 Programming Languages - Frameworks - Libraries I Use
+## 💻 Programming Languages - Frameworks - Libraries - Applications I Use
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts,react,cpp,c,cs,py,rust,java,go,html,css,sass,git,github,githubactions,unity,linux,visualstudio,vscode,arduino">
     </a>
 </div>
-
-##                                 
-##                                                                 
-                                
-
-## 💻 Applications I Use
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 <br>
 
