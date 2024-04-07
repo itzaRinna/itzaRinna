@@ -34,7 +34,7 @@
 ## 💻 Programming Languages - Frameworks - Libraries - Applications I Use
 <div align="left" display="flex" justify-content="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,cpp,c,cs,py,rust,java,go,html,css,sass,git,github,githubactions,unity,linux,visualstudio,vscode,arduino">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,cpp,c,cs,py,rust,java,go,html,css,sass,git,github,unity,godot,linux,visualstudio,vscode,arduino">
     </a>
 </div>
 
