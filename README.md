@@ -11,14 +11,6 @@
 ## About ME
 ### I like using the C family, like C/C++ and C#
 
-## 💻 Operating System
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch-008b8b?style=for-the-badge&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logoColor=white)
-![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white)
-
 <br>
 
 ## 💻 Programming Languages - Frameworks - Libraries - Applications I Use
@@ -26,6 +18,16 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts,react,git,github,linux,visualstudio,vscode,arduino">
     </a>
+</div>
+
+## 💻 Operating System
+<div align="left" display="flex" justify-content="center">
+   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logoColor=white)
+    ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logoColor=white)
+    ![Arch](https://img.shields.io/badge/Arch-008b8b?style=for-the-badge&logoColor=white)
+    ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logoColor=white)
+    ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logoColor=white)
+    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white) 
 </div>
 
 <br>
