@@ -22,6 +22,7 @@
 
 ## 💻 Operating System
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-008b8b?style=for-the-badge&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logoColor=white)
