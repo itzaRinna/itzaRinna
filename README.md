@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rinna Ateros
-## An Aspiring Fullstack - Game Developer - VLSI Engineer
+## An Aspiring Software Developer - VLSI Engineer - Competitive Programmer - Hacker
 ## CEO of Le Concevoir.Co
 
 <img src="https://github.com/itzaRinna/itzaRinna/blob/main/Lcc.jpg" alt="Le Concevoir.Co Logo" width="100" height="100">
