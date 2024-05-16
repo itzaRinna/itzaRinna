@@ -38,4 +38,3 @@
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=18&theme=jolly&hide_border=true&username=itzaRinna&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile,gml,shell,rust,go,c,java" height="275" alt="languages graph"  /></div>
 
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzaRinna&theme=jolly&hide_border=true" alt="itzaRinna" /></div>
-<div>![](https://leetcard.jacoblin.cool/itzaRinna?border=0&radius=20)</div>
