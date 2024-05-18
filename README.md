@@ -13,7 +13,7 @@
 ## 💻 Programming Languages - Frameworks - Libraries - Applications I Use
 <div align="left" display="flex" justify-content="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts,react,git,github,linux,visualstudio,vscode,rider,pycharm,idea,sublime,neovim,arduino,godot">
+        <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,react,git,github,linux,visualstudio,vscode,rider,pycharm,idea,sublime,neovim,arduino,godot">
     </a>
 </div>
 
@@ -35,7 +35,7 @@
 <br>
 
 ## Most Used Programming Languages
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=18&theme=jolly&hide_border=true&username=itzaRinna&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile,gml,shell,rust,go,c,java" height="275" alt="languages graph"  /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=18&theme=jolly&hide_border=true&username=itzaRinna&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile,gml,shell,rust,go,c" height="275" alt="languages graph"  /></div>
 
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzaRinna&theme=jolly&hide_border=true" alt="itzaRinna" /></div>
 <a href="https://app.daily.dev/itzarinna"><img src="https://api.daily.dev/devcards/v2/7eA96WxpDT4v8I6qvVFXf.png?r=y93" width="356" alt="Rinna Ateros's Dev Card"/></a>
