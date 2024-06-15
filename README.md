@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rinna Ateros - elloWorldTom
-## An Aspiring VLSI Engineer - .NET & Java Developer - Hacker
+## An Aspiring Software Engineer - .NET Programmer
 ## CEO of Le Concevoir.Co
 
 <img src="https://github.com/itzaRinna/itzaRinna/blob/main/Lcc.jpg" alt="Le Concevoir.Co Logo" width="100" height="100">
