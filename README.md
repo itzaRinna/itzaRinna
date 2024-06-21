@@ -5,7 +5,7 @@
 <img src="https://github.com/itzaRinna/itzaRinna/blob/main/Lcc.jpg" alt="Le Concevoir.Co Logo" width="100" height="100">
 
 
-## About ME
+## 💻 About ME
 ### I like using the C family, like C/C++ and C#
 
 <br>
