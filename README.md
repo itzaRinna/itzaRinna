@@ -20,7 +20,7 @@
 ## 💻 Frameworks - Libraries - Applications I Use
 <div align="left" display="flex" justify-content="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,git,github,linux,visualstudio,vscode,rider,pycharm,idea,sublime,neovim,arduino,godot">
+        <img src="https://skillicons.dev/icons?i=react,git,github,linux,visualstudio,vscode,rider,pycharm,idea,sublime,arduino,godot">
     </a>
 </div>
 
