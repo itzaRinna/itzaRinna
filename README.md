@@ -13,7 +13,7 @@
 ## 💻 Programming Languages 
 <div align="left" display="flex" justify-content="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,cs,c,js,ts">
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts">
     </a>
 </div>
 
