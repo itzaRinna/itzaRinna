@@ -1,13 +1,18 @@
 # Hi 👋, I'm Rinna Ateros - elloWorldTom
+
 ## An Aspiring Software Engineer - Game Developer
+
 ## CEO of Le Concevoir.Co
+
 ## 💻 I like using the C family, like C/C++ and C#
+
 ## 💻 Programming Languages 
 <div align="left" display="flex" justify-content="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts">
     </a>
 </div>
+
 ## 💻 Frameworks - Libraries - Applications I Use
 <div align="left" display="flex" justify-content="center">
     <a href="https://skillicons.dev">
