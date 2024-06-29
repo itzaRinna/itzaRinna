@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rinna Ateros - elloWorldTom
-## An Aspiring Software Engineer - .NET Programmer
+## An Aspiring Software Engineer - Game Developer
 ## CEO of Le Concevoir.Co
 ## 💻 About ME
 ### I like using the C family, like C/C++ and C#
