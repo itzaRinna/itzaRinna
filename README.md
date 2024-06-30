@@ -35,6 +35,8 @@
 
 <a href="https://www.linkedin.com/in/rinna-ateros-197922253"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
+<a href="https://www.facebook.com/profile.php?id=61557123393779&mibextid=LQQJ4d"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" /></a>
+
 <br>
 
 ## Most Used Programming Languages
