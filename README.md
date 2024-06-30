@@ -7,14 +7,14 @@
 ## 💻 I like using the C family, like C/C++ and C#
 
 ## 💻 Programming Languages 
-<div align="left" display="flex" justify-content="center">
+<div align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts">
     </a>
 </div>
 
 ## 💻 Frameworks - Libraries - Applications I Use
-<div align="left" display="flex" justify-content="center">
+<div align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,git,github,linux,visualstudio,vscode,rider,pycharm,idea,sublime,arduino,godot">
     </a>
@@ -32,13 +32,14 @@
 <br>
 
 ## 💻 Check Out My Social Media
-<div align="left" display="flex" justify-content="center">
+<div align="left">
     <a href="https://www.linkedin.com/in/rinna-ateros-197922253"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-    
-    <a href="https://www.facebook.com/profile.php?id=61557123393779&mibextid=LQQJ4d"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" /></a>
+    <a href="https://www.facebook.com/profile.php?id=61557123393779&mibextid=LQQJ4d"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
 </div>
 <br>
 
 ## Most Used Programming Languages
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=18&theme=dracula&hide_border=true&username=itzaRinna&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile,gml,shell,rust,go,python,less,java,cs" height="275" alt="languages graph"  /></div>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=18&theme=dracula&hide_border=true&username=itzaRinna&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile,gml,shell,rust,go,python,less,java,cs" height="275" alt="languages graph"  />
+</div>
 <a href="https://app.daily.dev/itzarinna"><img src="https://api.daily.dev/devcards/v2/7eA96WxpDT4v8I6qvVFXf.png?r=y93" width="356" alt="Rinna Ateros's Dev Card"/></a>
