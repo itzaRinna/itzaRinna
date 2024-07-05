@@ -21,7 +21,7 @@
 ## 💻 Operating System
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=arch,windows,mint,android,ios">
+        <img src="https://skillicons.dev/icons?i=arch,windows,mint">
     </a>
 </div>
 <br>
