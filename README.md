@@ -4,8 +4,6 @@
 
 ## CEO of Le Concevoir.Co
 
-## 💻 I like using the C family, like C/C++ and C#
-
 ## 💻 Programming Languages 
 <div align="left">
     <a href="https://skillicons.dev">
@@ -31,7 +29,7 @@
 
 <br>
 
-## 💻 Check Out My Social Media
+## 💻 My Social Media
 <div align="left">
     <a href="https://www.linkedin.com/in/rinna-ateros-197922253"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
     <a href="https://www.facebook.com/profile.php?id=61557123393779&mibextid=LQQJ4d"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
