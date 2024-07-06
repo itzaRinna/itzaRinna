@@ -2,7 +2,7 @@
 
 ## An Aspiring Software Engineer - Game Developer 👨🏻‍💻
 
-## CEO of Le Concevoir.Co [![Le Concevoir.Co](https://github.com/itzaRinna/itzaRinna/LCC.png)](https://yourcompanywebsite.com)
+## CEO of Le Concevoir.Co [![Le Concevoir.Co](https://github.com/itzaRinna/itzaRinna/blob/main/LCC.png)](https://github.com/Le-Concevoir-Co)
 
 ## 💻 Known Programming Languages 
 <div align="left">
