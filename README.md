@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rinna Ateros - elloWorldTom
 
-## An Aspiring Software Engineer - Game Developer
+## An Aspiring Software Engineer - Game Developer 👨🏻‍💻
 
 ## CEO of Le Concevoir.Co
 
