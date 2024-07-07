@@ -4,17 +4,17 @@
 
 ## CEO of Le Concevoir.Co <a href="https://github.com/Le-Concevoir-Co"><img src="https://github.com/itzaRinna/itzaRinna/blob/main/LCC.png" alt="Le Concevoir.Co" width="50" height="50"></a>
 
-## 💻 Known Programming Languages 
+## 💻 Known Programming Languages - Frameworks - Libraries
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts">
+        <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,react,vite">
     </a>
 </div>
 
-## 💻 Frameworks - Libraries - Applications I Use
+## 💻 Applications I Use
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,git,github,visualstudio,vscode,rider,pycharm,idea,sublime,arduino,godot">
+        <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,rider,pycharm,idea,sublime,arduino,godot">
     </a>
 </div>
 
