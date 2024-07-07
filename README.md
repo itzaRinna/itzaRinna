@@ -14,14 +14,14 @@
 ## 💻 Frameworks - Libraries - Applications I Use
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,git,github,linux,visualstudio,vscode,rider,pycharm,idea,sublime,arduino,godot">
+        <img src="https://skillicons.dev/icons?i=react,git,github,visualstudio,vscode,rider,pycharm,idea,sublime,arduino,godot">
     </a>
 </div>
 
-## 💻 Operating System
+## 💻 Operating System - Linux distributions
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=arch,windows,mint,debian">
+        <img src="https://skillicons.dev/icons?i=linux,windows,debian,arch,mint">
     </a>
 </div>
 <br>
