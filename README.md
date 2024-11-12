@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rinna Ateros - elloWorldTom
+# Hi 👋, I'm Ja Kang - 자 깡
 
 ## An Aspiring Software Engineer - Game Developer 👨🏻‍💻
 
