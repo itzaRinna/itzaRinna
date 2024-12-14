@@ -7,7 +7,7 @@
 ## 💻 Known Programming Languages - Frameworks - Libraries
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,react,vite">
+        <img src="https://skillicons.dev/icons?i=cs">
     </a>
 </div>
 
