@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ja Kang - 자 깡
+# Hi 👋, I'm Tom Caston - Gia Khang - 자 깡
 
 ## A Beginner Level Coder 👨🏻‍💻 / Technician
 
