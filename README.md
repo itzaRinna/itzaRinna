@@ -7,7 +7,7 @@
 ## 💻 Known Programming Languages
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs">
+        <img src="https://skillicons.dev/icons?i=cpp,cs">
     </a>
 </div>
 
